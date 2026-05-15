@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 324488512e974b6f9762d07b8ba2f4f2
+guid: c407cd34991e454894b3bb5070db189e
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-12.4.0
-- gvhp_exportpath-Firebase/Editor/FirebaseAppCheck_version-12.4.0_manifest.txt
+- gvh_version-12.4.1
+- gvhp_exportpath-Firebase/Editor/FirebaseAppCheck_version-12.4.1_manifest.txt
 - gvhp_manifestname-0Firebase App Check
 - gvhp_manifestname-1FirebaseAppCheck
 timeCreated: 0
