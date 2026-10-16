@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: adf6c486a27a4acc862f658f7c150dc0
+guid: 5aa5940d467f488f844f137bdbe81f20
 labels:
 - gvh
-- gvh_version-13.17.0
-- gvhp_exportpath-Plugins/tvOS/Firebase/libFirebaseCppAppCheck.a
+- gvh_version-14.0.0
+- gvhp_exportpath-Plugins/tvOS/Firebase/libFirebaseCppAppCheck.xcframework
 timeCreated: 1480838400
 PluginImporter:
   serializedVersion: 1
